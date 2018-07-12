@@ -15,3 +15,7 @@ HELP ME LEARN ABOUT GIT!!!!!
 This is a simple web project. deployment can be on any webserver. 
 
 ## How to contribute 
+
+## Copyright
+
+Git training 2014
