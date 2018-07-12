@@ -8,6 +8,10 @@ This is example is to show different parts of the git repository.
 
 ## Purpose
 
+HELP ME LEARN ABOUT GIT!!!!!
+
 ## Deployment
+
+This is a simple web project. deployment can be on any webserver. 
 
 ## How to contribute 
